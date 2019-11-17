@@ -1,0 +1,9 @@
+[http]
+	proxy = http://192.168.43.68:1081
+	sslverify = false
+[https]
+	proxy = http://192.168.43.68:1081
+
+[user]
+	name = alpha19976 
+	email = chenda1996@gmail.com
